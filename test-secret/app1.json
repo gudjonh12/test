@@ -1,0 +1,5 @@
+{
+    "user": "someuser",
+    "pass": "{{im-test-user@site.com}}",
+    "myconfig": "someconfig"
+}

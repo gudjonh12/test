@@ -1,0 +1,4 @@
+{
+    "user": "someuser",
+    "pass": "{{im-prod-user@site.com}}"
+}
