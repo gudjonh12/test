@@ -1,4 +1,4 @@
 {
-    "user": "someuser",
-    "pass": "{{im-user@site.com}}"
+    "user": "complexuser",
+    "pass": "{{resource2/complexuser}}"
 }

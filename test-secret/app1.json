@@ -1,5 +1,5 @@
 {
-    "user": "someuser",
-    "pass": "{{im-test-user@site.com}}",
+    "user": "defaultuser@resource1.com",
+    "pass": "{{resource1/defaultuser}}",
     "myconfig": "someconfig"
 }
