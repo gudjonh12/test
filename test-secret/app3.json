@@ -1,0 +1,6 @@
+{
+    "user": "defaultuser@resource1.com",
+    "pass": "{{resource1/defaultuser}}",
+    "samapassaftur": "{{resource1/defaultuser}}",
+    "myconfig": "someconfig"
+}
