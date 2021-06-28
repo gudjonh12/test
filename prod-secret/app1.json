@@ -1,5 +1,7 @@
 {
     "user": "someuser",
     "pass": "{{resource1/im-prod-user@site.com}}",
+    "pass2": "{{resource1/im-prod2-user@site.com}}",
+    "passold": "{{im-oldprod-user@site.com}}",
     "url": "http://mbl.is"
 }
